@@ -73,6 +73,14 @@ export const gridItems = [
 
 export const projects = [
   {
+    id: 2,
+    title: "Yoom - Video Conferencing App",
+    des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+    img: "/p2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://zoom-clone-wheat.vercel.app/",
+  },
+  {
     id: 1,
     title: "Car showcase App",
     des: "A full-stack app that allows users to browse and filter cars based on their preferences. Built with React, Node.js, and MongoDB.",
